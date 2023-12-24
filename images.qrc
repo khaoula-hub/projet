@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>batons/baton1.png</file>
+        <file>batons/baton10.png</file>
+        <file>batons/baton11.png</file>
+        <file>batons/baton12.png</file>
+        <file>batons/baton2.png</file>
+        <file>batons/baton3.png</file>
+        <file>batons/baton4.png</file>
+        <file>batons/baton5.png</file>
+        <file>batons/baton6.png</file>
+        <file>batons/baton7.png</file>
+        <file>coupes/coupe1.png</file>
+        <file>coupes/coupe10.png</file>
+        <file>coupes/coupe11.png</file>
+        <file>coupes/coupe12.png</file>
+        <file>coupes/coupe2.png</file>
+        <file>coupes/coupe3.png</file>
+        <file>coupes/coupe4.png</file>
+        <file>coupes/coupe5.png</file>
+        <file>coupes/coupe6.png</file>
+        <file>coupes/coupe7.png</file>
+        <file>dos/le dos.jpg</file>
+        <file>epees/epee1.png</file>
+        <file>epees/epee10.png</file>
+        <file>epees/epee11.png</file>
+        <file>epees/epee12.png</file>
+        <file>epees/epee2.png</file>
+        <file>epees/epee3.png</file>
+        <file>epees/epee4.png</file>
+        <file>epees/epee5.png</file>
+        <file>epees/epee6.png</file>
+        <file>epees/epee7.png</file>
+        <file>or/or1.png</file>
+        <file>or/or10.png</file>
+        <file>or/or11.png</file>
+        <file>or/or12.png</file>
+        <file>or/or2.png</file>
+        <file>or/or3.png</file>
+        <file>or/or4.png</file>
+        <file>or/or5.png</file>
+        <file>or/or6.png</file>
+        <file>or/or7.png</file>
+    </qresource>
+</RCC>
